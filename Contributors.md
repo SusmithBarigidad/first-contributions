@@ -3134,5 +3134,4 @@ Disguy
 - [Kimmo Saari](https://github.com/kirbo)
 - [Ígor Rodrigues](https://github.com/Igorjr19)
 - [Pushpendra patwal](https://github.com/SINGHXLb)
-- [cksgnlcjswo](https://github.com/cksgnlcjswo)
 - [Susmith Barigidad] (https://github.com/SusmithBarigidad)
